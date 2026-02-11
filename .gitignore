@@ -33,9 +33,6 @@ build/
 
 # Uploads and data
 uploads/
-*.jpg
-*.jpeg
-*.png
 *.gif
 data/extracted_files/
 *.zip
