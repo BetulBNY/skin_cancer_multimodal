@@ -8,8 +8,8 @@ An AI-powered web application for analyzing skin lesions using deep learning. Th
 
 
 ## 🖥️ Application Screenshots
-![Prediction Result](C:\Users\betus\Desktop\all_projects\skin_cancer\skin_cancer_multimodel\photos\1.jpg)
-![Prediction Result](C:\Users\betus\Desktop\all_projects\skin_cancer\skin_cancer_multimodel\photos\2.jpg)
+![Prediction Result](photos/1.jpg)
+![Prediction Result](photos/2.jpg)
 
 ## 🌟 Features
 
