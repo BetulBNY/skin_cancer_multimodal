@@ -8,8 +8,8 @@ An AI-powered web application for analyzing skin lesions using deep learning. Th
 
 
 ## 🖥️ Application Screenshots
-![Prediction Result](photos/ss1.jpg)
-![Prediction Result2](photos/ss2.jpg)
+![Prediction Result](photos/ss3.jpg)
+
 
 ## 🌟 Features
 
